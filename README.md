@@ -1,4 +1,6 @@
 # AI Inquiry Classification Workflow
+AI-powered workflow automation using n8n, OpenAI API, Google Sheets, and Slack.
+
 
 ## Overview
 
