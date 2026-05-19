@@ -58,6 +58,22 @@ Slack Notification
 - Automatic inquiry classification
 - AI-based urgency detection
 - Slack notification automation
-- JSON formatted AI output<img width="1299" height="660" alt="slack  Workflow" src="https://github.com/user-attachments/assets/eaf1367b-982b-423a-a429-bdbad7a7af8f" />
+- JSON formatted AI outpu
+
+-## Before / After
+
+### Before
+
+- Manual inquiry checking
+- Manual urgency judgment
+- No automatic notifications
+- Slow response workflow
+
+### After
+
+- AI automatically classifies inquiries
+- Automatic urgency detection
+- Slack notification automation
+- Faster inquiry handling workflow 
 
 
