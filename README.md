@@ -27,19 +27,18 @@ Slack Notification
 ---
 
 ## Workflow Screenshot
+<img width="1203" height="648" alt="ai-inquiry-workflow-final png" src="https://github.com/user-attachments/assets/fc55a8ae-0d4b-4527-a0dc-19ef6d6d5fb1" />
 
-<img width="1299" height="660" alt="slack  Workflow" src="https://github.com/user-attachments/assets/cbbeb986-28ac-4e9c-987c-e2b3a3cdc076" />
+
 
 
 ---
 
 ## AI Classification Output
-
 <img width="515" height="398" alt="slack out put" src="https://github.com/user-attachments/assets/935a58ce-3138-4700-8212-c29f0e090f14" />
 
 
 ## Slack Notification
-
 <img width="353" height="186" alt="slack 通知" src="https://github.com/user-attachments/assets/c106127a-75bf-4dd7-a983-04357ae1bd75" />
 
 
