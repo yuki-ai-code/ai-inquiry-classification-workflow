@@ -52,7 +52,7 @@ Slack Notification
 - Google Sheets
 - Slack
 - Google Forms
-
+- Gmail
 ---
 
 ## Features
@@ -60,7 +60,8 @@ Slack Notification
 - Automatic inquiry classification
 - AI-based urgency detection
 - Slack notification automation
-- JSON formatted AI outpu
+- JSON formatted AI output
+- Gmail notification automation
 
 -## Before / After
 
