@@ -1,46 +1,41 @@
 # AI Inquiry Classification Workflow
-AI-powered workflow automation using n8n, OpenAI API, Google Sheets, and Slack.
 
+AI-powered workflow automation using n8n, OpenAI API, Google Sheets, Slack, and Gmail.
 
 ## Overview
 
-This project is an AI-powered workflow automation system built with n8n, OpenAI API, Google Sheets, and Slack.
+This project is an AI-powered workflow automation system built with n8n, OpenAI API, Google Sheets, Slack, and Gmail.
 
-The workflow automatically classifies inquiry content using AI and sends categorized notifications to Slack.
+The workflow automatically classifies inquiry content using AI and sends categorized notifications to Slack and Gmail.
 
 ---
 
 ## Workflow
 
-Google Forms
-↓
-Google Sheets
-↓
-n8n Trigger
-↓
-OpenAI API
-↓
-AI Classification
-↓
-Slack Notification
+Google Forms  
+↓  
+Google Sheets  
+↓  
+n8n Trigger  
+↓  
+OpenAI API  
+↓  
+AI Classification  
+↓  
+Slack Notification  
+↓  
+Gmail Notification
 
 ---
 
-## Workflow Screenshot
-<img width="1203" height="648" alt="ai-inquiry-workflow-final png" src="https://github.com/user-attachments/assets/fc55a8ae-0d4b-4527-a0dc-19ef6d6d5fb1" />
+## Features
 
-
-
-
----
-
-## AI Classification Output
-<img width="515" height="398" alt="slack out put" src="https://github.com/user-attachments/assets/935a58ce-3138-4700-8212-c29f0e090f14" />
-
-
-## Slack Notification
-<img width="353" height="186" alt="slack 通知" src="https://github.com/user-attachments/assets/c106127a-75bf-4dd7-a983-04357ae1bd75" />
-
+- Automatic inquiry classification
+- AI-based urgency detection
+- Slack notification automation
+- Gmail notification automation
+- JSON-formatted AI output
+- Faster inquiry handling workflow
 
 ---
 
@@ -49,20 +44,26 @@ Slack Notification
 - n8n
 - OpenAI API
 - Google Sheets
-- Slack
 - Google Forms
+- Slack
 - Gmail
+
 ---
 
-## Features
+## Screenshots
 
-- Automatic inquiry classification
-- AI-based urgency detection
-- Slack notification automation
-- JSON formatted AI output
-- Gmail notification automation
+### Workflow Overview
+![Workflow Overview](screenshots/classification-workflow-overview.png)
 
--## Before / After
+### AI Classification Output
+![AI Classification Output](screenshots/classification-ai-output.png)
+
+### Slack Notification
+![Slack Notification](screenshots/classification-slack-notification.png)
+
+---
+
+## Before / After
 
 ### Before
 
@@ -76,6 +77,14 @@ Slack Notification
 - AI automatically classifies inquiries
 - Automatic urgency detection
 - Slack notification automation
-- Faster inquiry handling workflow 
+- Faster inquiry handling workflow
 
+---
 
+## Future Improvements
+
+- Automatic ticket assignment
+- CRM integration
+- AI-generated reply suggestions
+- Advanced sentiment analysis
+- Priority-based routing
