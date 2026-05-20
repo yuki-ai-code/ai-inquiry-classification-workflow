@@ -6,7 +6,7 @@ AI-powered workflow automation using n8n, OpenAI API, Google Sheets, Slack, and 
 
 This project is an AI-powered workflow automation system built with n8n, OpenAI API, Google Sheets, Slack, and Gmail.
 
-The workflow automatically classifies inquiry content using AI and sends categorized notifications to Slack and Gmail.
+Automatically classifies customer inquiries and routes important notifications to Slack and Gmail.
 
 ---
 
